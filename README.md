@@ -20,7 +20,7 @@ script5_manifest_generator.sh (OSS Manifesto Generator): An interactive script t
 
 How to Run:
 
-Clone the repo - git clone https://github.com/d7rev/oss-audit-24BCG10040.git cd oss-audit-24BCG10040
+Clone the repo - git clone https://github.com/arshsahib09-maker/oss-audit-24BAI10973 cd oss-audit-24BCG10040
 
 Make the scripts executable: chmod +x *.sh
 
